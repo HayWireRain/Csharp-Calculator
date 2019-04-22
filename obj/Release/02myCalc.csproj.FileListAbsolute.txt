@@ -1,0 +1,28 @@
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe.config
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.pdb
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Calculator.resources
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Properties.Resources.resources
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csproj.GenerateResource.Cache
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.exe
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.pdb
+J:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csprojResolveAssemblyReference.cache
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe.config
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.pdb
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csprojResolveAssemblyReference.cache
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Calculator.resources
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Properties.Resources.resources
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csproj.GenerateResource.Cache
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.exe
+H:\Coding Archive\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.pdb
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe.config
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.exe
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\bin\Release\02myCalc.pdb
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csprojResolveAssemblyReference.cache
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Calculator.resources
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\_02myCalc.Properties.Resources.resources
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csproj.GenerateResource.Cache
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.exe
+C:\Users\dylan\Desktop\New folder (2)\C# Projects\02myCalc-20161123T183558Z\02myCalc\02myCalc\obj\Release\02myCalc.pdb
